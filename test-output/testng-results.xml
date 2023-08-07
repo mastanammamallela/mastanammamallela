@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-29T13:05:26 IST" name="Default suite" finished-at="2023-07-29T13:05:26 IST" duration-ms="76">
+    <groups>
+    </groups>
+    <test started-at="2023-07-29T13:05:26 IST" name="Default test" finished-at="2023-07-29T13:05:26 IST" duration-ms="76">
+      <class name="testng.Example$Testng">
+        <test-method signature="test1()[pri:1, instance:testng.Example$Testng@6da21078]" started-at="2023-07-29T13:05:26 IST" name="test1" finished-at="2023-07-29T13:05:26 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:testng.Example$Testng@6da21078]" started-at="2023-07-29T13:05:26 IST" name="test2" finished-at="2023-07-29T13:05:26 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- testng.Example$Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
